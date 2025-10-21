@@ -14,7 +14,7 @@
 
 - [X] **[指南针]**：[一个简易指南针的制作]
       
-   **项目链接**：[插线板指南针](https://tgoe-1.github.io/yanbo/)
+   **项目链接**：[插线板指南针](https://tgoe-1.github.io/stella-Polaris/)
 
 ## 未完成项目
 
